@@ -6,8 +6,8 @@ This project is a work-in-progress quantitative finance tool designed to analyse
 The current version focuses on beta calculation, while later versions will support portfolio-level metrics such as weighted P/E, aggregated beta, Sharpe ratio, and custom portfolio imports.
 
 ## Current state
-The project currently calculates the beta of one or more stocks relative to a chosen market index.
-**This includes:**
+The project currently calculates the beta of one or more stocks relative to a chosen market index. <br>
+**This includes:** <br>
 Downloading historical price data <br>
 Computing daily returns <br>
 Performing a linear regression against benchmark returns <br>
